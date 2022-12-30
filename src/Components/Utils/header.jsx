@@ -36,6 +36,7 @@ export default function header(props) {
           <NavLink className="navlink" txt="Home" url="/" />
           <NavLink txt="Data" url="/data" />
           <NavLink txt="About" url="/about" />
+          <NavLink txt="Admin" url="/admin" />
         </div>
       </div>
     </div>
